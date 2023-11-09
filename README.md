@@ -1,2 +1,1 @@
-# pythonorange
-Python and Orange analytics
+An analytics project using Python and Orange
